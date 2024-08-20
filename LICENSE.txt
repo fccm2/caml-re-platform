@@ -1,0 +1,19 @@
+Copyrights for the file "js/caml-platform.js":
+
+- Copyright (C) 2015-2016 Bloomberg Finance L.P.
+- Copyright (C) 1996 Institut National de Recherche en Informatique
+   et en Automatique.
+
+The contents of the file "js/caml-platform.js" comes from:
+- rescript-compiler-8.4.2
+   (directory: "bs-platform/lib/js/")
+
+The files that were put together in this file are part of the rescript-
+system, version "8.4.2", and are based on the library functions from
+OCaml version "4.06.1", which license is the LGPL, with a special exception
+on linking.
+
+For more details, please refer to:
+- rescript-compiler-8.4.2
+- ocaml-4.06.1
+
